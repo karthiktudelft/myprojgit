@@ -1,1 +1,1 @@
-# myprojgit
+An example of git commands
